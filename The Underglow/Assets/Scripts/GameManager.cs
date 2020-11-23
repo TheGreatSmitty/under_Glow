@@ -1,3 +1,3 @@
 using System.Collections;
-using System.COllections.Generic;
+using System.Collections.Generic;
 using UnityEngine;
