@@ -12,14 +12,18 @@ public class PlayerController : MonoBehaviour
     public float speed;
     private Vector2 direction;
 
-    public int health;
+    //Health
+    public int maxHealth = 20;
+    public int currentHealth;
+    public HealthBar healthBar;
     public void Start()
     {
         rigi = GetComponent<Rigidbody2D>();
         collison = GetComponent<Collider2D>();
         childobject = GetComponentInChildren<SpriteRenderer>();
 
-        health = 20;
+        currentHealth = maxHealth;
+        healthBar.SetHealth(maxHealth);
     }
 
     public void FixedUpdate()
@@ -41,7 +45,9 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            health--;
+            currentHealth--;
+
+            healthBar.SetHealth(currentHealth);
         }
     }
 }
