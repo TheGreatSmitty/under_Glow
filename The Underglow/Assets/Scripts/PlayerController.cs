@@ -6,15 +6,20 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rigi;
     private Collider2D collison;
+    
     private SpriteRenderer childobject;
+
     public float speed;
     private Vector2 direction;
 
+    public int health;
     public void Start()
     {
         rigi = GetComponent<Rigidbody2D>();
         collison = GetComponent<Collider2D>();
         childobject = GetComponentInChildren<SpriteRenderer>();
+
+        health = 20;
     }
 
     public void FixedUpdate()
@@ -30,5 +35,13 @@ public class PlayerController : MonoBehaviour
         }
 
         rigi.MovePosition(rigi.position + direction * Time.fixedDeltaTime);
+    }
+
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            health--;
+        }
     }
 }

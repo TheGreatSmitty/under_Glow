@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: aa1282789eaf9fb44bbc5c2581072cab
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5445027313137940601
+    second: spirit golem sprite sheet_0
+  - first:
+      213: -2352678969991173761
+    second: spirit golem sprite sheet_1
+  - first:
+      213: 6960011943597892738
+    second: spirit golem sprite sheet_2
+  - first:
+      213: 3357618930012801363
+    second: spirit golem sprite sheet_3
+  - first:
+      213: 6041657466110224232
+    second: spirit golem sprite sheet_4
+  - first:
+      213: -5333091845002744033
+    second: spirit golem sprite sheet_5
+  - first:
+      213: -7972518857397975360
+    second: spirit golem sprite sheet_6
+  - first:
+      213: 3569796758470924772
+    second: spirit golem sprite sheet_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +56,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,7 +65,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -64,7 +88,19 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -75,7 +111,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4219
+        width: 1472
+        height: 1670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870d18f1806f64b0800000000000000
+      internalID: -5445027313137940601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 4227
+        width: 1464
+        height: 1638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e42b11fa995fd0800000000000000
+      internalID: -2352678969991173761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2165
+        width: 1472
+        height: 1674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e0aaacfde69060800000000000000
+      internalID: 6960011943597892738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 222
+        width: 1472
+        height: 1674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594a8e90a8a89e20800000000000000
+      internalID: 3357618930012801363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 218
+        width: 1539
+        height: 1694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672612947748d350800000000000000
+      internalID: 6041657466110224232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 230
+        width: 1500
+        height: 1757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f2410193d0df5b0800000000000000
+      internalID: -5333091845002744033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 241
+        width: 1448
+        height: 1718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c0b3e65ceb5190800000000000000
+      internalID: -7972518857397975360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirit golem sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 253
+        width: 1556
+        height: 1548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9100dfc377a8130800000000000000
+      internalID: 3569796758470924772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
