@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 164980748}
   - component: {fileID: 164980747}
   - component: {fileID: 164980750}
+  - component: {fileID: 164980751}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -242,6 +243,20 @@ VideoPlayer:
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
+--- !u!114 &164980751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 164980746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e19ce9a4c7b42b448db106ef3672816, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wait_time: 8
+  index: 1
 --- !u!1 &505778672
 GameObject:
   m_ObjectHideFlags: 0
