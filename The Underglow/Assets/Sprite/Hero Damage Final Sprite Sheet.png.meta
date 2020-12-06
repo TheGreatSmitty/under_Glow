@@ -1,7 +1,1564 @@
 fileFormatVersion: 2
 guid: 52d98c0b9465bfb43b737f54489f587c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2747125604769880506
+    second: Hero Damage Final Sprite Sheet_0
+  - first:
+      213: 6209196905578921080
+    second: Hero Damage Final Sprite Sheet_1
+  - first:
+      213: 6813012578473065261
+    second: Hero Damage Final Sprite Sheet_2
+  - first:
+      213: -5798134679298391701
+    second: Hero Damage Final Sprite Sheet_3
+  - first:
+      213: 129012285770396532
+    second: Hero Damage Final Sprite Sheet_4
+  - first:
+      213: 4064604858511090454
+    second: Hero Damage Final Sprite Sheet_5
+  - first:
+      213: -8408663478543815518
+    second: Hero Damage Final Sprite Sheet_6
+  - first:
+      213: 5234414753038143488
+    second: Hero Damage Final Sprite Sheet_7
+  - first:
+      213: 688965709129117743
+    second: Hero Damage Final Sprite Sheet_8
+  - first:
+      213: -2557835117141840202
+    second: Hero Damage Final Sprite Sheet_9
+  - first:
+      213: 8815382652726887079
+    second: Hero Damage Final Sprite Sheet_10
+  - first:
+      213: -2730600366051488029
+    second: Hero Damage Final Sprite Sheet_11
+  - first:
+      213: 8522086226784548498
+    second: Hero Damage Final Sprite Sheet_12
+  - first:
+      213: 4658958240849755871
+    second: Hero Damage Final Sprite Sheet_13
+  - first:
+      213: 2359832565796950324
+    second: Hero Damage Final Sprite Sheet_14
+  - first:
+      213: 1970028967673513359
+    second: Hero Damage Final Sprite Sheet_15
+  - first:
+      213: -1561083365130380543
+    second: Hero Damage Final Sprite Sheet_16
+  - first:
+      213: 302946867187839795
+    second: Hero Damage Final Sprite Sheet_17
+  - first:
+      213: 4982998740906695679
+    second: Hero Damage Final Sprite Sheet_18
+  - first:
+      213: 620928777444578414
+    second: Hero Damage Final Sprite Sheet_19
+  - first:
+      213: 2863947296958757299
+    second: Hero Damage Final Sprite Sheet_20
+  - first:
+      213: -4762898581980799791
+    second: Hero Damage Final Sprite Sheet_21
+  - first:
+      213: 2942359705702519444
+    second: Hero Damage Final Sprite Sheet_22
+  - first:
+      213: 1620290678839043986
+    second: Hero Damage Final Sprite Sheet_23
+  - first:
+      213: 6702640952829734235
+    second: Hero Damage Final Sprite Sheet_24
+  - first:
+      213: 1670166970521205600
+    second: Hero Damage Final Sprite Sheet_25
+  - first:
+      213: 212470279813086988
+    second: Hero Damage Final Sprite Sheet_26
+  - first:
+      213: 2840215580994396113
+    second: Hero Damage Final Sprite Sheet_27
+  - first:
+      213: 6061346071246239484
+    second: Hero Damage Final Sprite Sheet_28
+  - first:
+      213: 5348841101300254565
+    second: Hero Damage Final Sprite Sheet_29
+  - first:
+      213: -9103718798811352061
+    second: Hero Damage Final Sprite Sheet_30
+  - first:
+      213: 1900579455126929168
+    second: Hero Damage Final Sprite Sheet_31
+  - first:
+      213: 3256512109876287707
+    second: Hero Damage Final Sprite Sheet_32
+  - first:
+      213: 6817503372518736465
+    second: Hero Damage Final Sprite Sheet_33
+  - first:
+      213: 6193967510497217507
+    second: Hero Damage Final Sprite Sheet_34
+  - first:
+      213: 8589376452205341435
+    second: Hero Damage Final Sprite Sheet_35
+  - first:
+      213: 2645305907246484582
+    second: Hero Damage Final Sprite Sheet_36
+  - first:
+      213: -5167318377158813395
+    second: Hero Damage Final Sprite Sheet_37
+  - first:
+      213: -7520297657116480898
+    second: Hero Damage Final Sprite Sheet_38
+  - first:
+      213: -8612722947150877698
+    second: Hero Damage Final Sprite Sheet_39
+  - first:
+      213: -214031404650194223
+    second: Hero Damage Final Sprite Sheet_40
+  - first:
+      213: -6251342718227215338
+    second: Hero Damage Final Sprite Sheet_41
+  - first:
+      213: -4068435571402847399
+    second: Hero Damage Final Sprite Sheet_42
+  - first:
+      213: -1793657306287197301
+    second: Hero Damage Final Sprite Sheet_43
+  - first:
+      213: -8230457067588468645
+    second: Hero Damage Final Sprite Sheet_44
+  - first:
+      213: -1271883198859527282
+    second: Hero Damage Final Sprite Sheet_45
+  - first:
+      213: -8698396182562888410
+    second: Hero Damage Final Sprite Sheet_46
+  - first:
+      213: -426908816407886127
+    second: Hero Damage Final Sprite Sheet_47
+  - first:
+      213: -1460219864455207475
+    second: Hero Damage Final Sprite Sheet_48
+  - first:
+      213: -7933165776179506814
+    second: Hero Damage Final Sprite Sheet_49
+  - first:
+      213: -4126374114340107383
+    second: Hero Damage Final Sprite Sheet_50
+  - first:
+      213: 3322737366701694170
+    second: Hero Damage Final Sprite Sheet_51
+  - first:
+      213: -8297768879948406027
+    second: Hero Damage Final Sprite Sheet_52
+  - first:
+      213: 7844456962015991615
+    second: Hero Damage Final Sprite Sheet_53
+  - first:
+      213: 4557999713655275241
+    second: Hero Damage Final Sprite Sheet_54
+  - first:
+      213: 2923695306050755329
+    second: Hero Damage Final Sprite Sheet_55
+  - first:
+      213: 6953933641286497540
+    second: Hero Damage Final Sprite Sheet_56
+  - first:
+      213: 3580122288504328012
+    second: Hero Damage Final Sprite Sheet_57
+  - first:
+      213: -3463369660897871725
+    second: Hero Damage Final Sprite Sheet_58
+  - first:
+      213: -8478044034014963471
+    second: Hero Damage Final Sprite Sheet_59
+  - first:
+      213: 5225406673804806796
+    second: Hero Damage Final Sprite Sheet_60
+  - first:
+      213: 6393672551590277823
+    second: Hero Damage Final Sprite Sheet_61
+  - first:
+      213: -427301887222643919
+    second: Hero Damage Final Sprite Sheet_62
+  - first:
+      213: 2727798333053846851
+    second: Hero Damage Final Sprite Sheet_63
+  - first:
+      213: -985530156289053156
+    second: Hero Damage Final Sprite Sheet_64
+  - first:
+      213: 4723747538362334562
+    second: Hero Damage Final Sprite Sheet_65
+  - first:
+      213: 355071990299850570
+    second: Hero Damage Final Sprite Sheet_66
+  - first:
+      213: -8076532541482176463
+    second: Hero Damage Final Sprite Sheet_67
+  - first:
+      213: -3128974289425448315
+    second: Hero Damage Final Sprite Sheet_68
+  - first:
+      213: 7362153529592485268
+    second: Hero Damage Final Sprite Sheet_69
+  - first:
+      213: 1671104461652067158
+    second: Hero Damage Final Sprite Sheet_70
+  - first:
+      213: 7487040092534571446
+    second: Hero Damage Final Sprite Sheet_71
+  - first:
+      213: -4341122849372899451
+    second: Hero Damage Final Sprite Sheet_72
+  - first:
+      213: -5889594952432472375
+    second: Hero Damage Final Sprite Sheet_73
+  - first:
+      213: -2338261128903909958
+    second: Hero Damage Final Sprite Sheet_74
+  - first:
+      213: 183755350199938875
+    second: Hero Damage Final Sprite Sheet_75
+  - first:
+      213: -2556667810188375243
+    second: Hero Damage Final Sprite Sheet_76
+  - first:
+      213: 7172473626794299325
+    second: Hero Damage Final Sprite Sheet_77
+  - first:
+      213: 5573905718198429639
+    second: Hero Damage Final Sprite Sheet_78
+  - first:
+      213: 8218062175790455623
+    second: Hero Damage Final Sprite Sheet_79
+  - first:
+      213: 2864837828447774726
+    second: Hero Damage Final Sprite Sheet_80
+  - first:
+      213: -3316611981920448267
+    second: Hero Damage Final Sprite Sheet_81
+  - first:
+      213: -1461181536397157721
+    second: Hero Damage Final Sprite Sheet_82
+  - first:
+      213: -674722032817432746
+    second: Hero Damage Final Sprite Sheet_83
+  - first:
+      213: 3566539209198606304
+    second: Hero Damage Final Sprite Sheet_84
+  - first:
+      213: -9059991156430896843
+    second: Hero Damage Final Sprite Sheet_85
+  - first:
+      213: 5996316570804997814
+    second: Hero Damage Final Sprite Sheet_86
+  - first:
+      213: 6575966207451901691
+    second: Hero Damage Final Sprite Sheet_87
+  - first:
+      213: 73206144072152820
+    second: Hero Damage Final Sprite Sheet_88
+  - first:
+      213: -3764746695638530289
+    second: Hero Damage Final Sprite Sheet_89
+  - first:
+      213: 871931323158834282
+    second: Hero Damage Final Sprite Sheet_90
+  - first:
+      213: -49526959543721178
+    second: Hero Damage Final Sprite Sheet_91
+  - first:
+      213: 4592218268244528974
+    second: Hero Damage Final Sprite Sheet_92
+  - first:
+      213: 5662913899997276127
+    second: Hero Damage Final Sprite Sheet_93
+  - first:
+      213: -4316306244545512057
+    second: Hero Damage Final Sprite Sheet_94
+  - first:
+      213: -6947578046595417920
+    second: Hero Damage Final Sprite Sheet_95
+  - first:
+      213: -7349927657663344400
+    second: Hero Damage Final Sprite Sheet_96
+  - first:
+      213: -2954553324846967493
+    second: Hero Damage Final Sprite Sheet_97
+  - first:
+      213: 7241835159464883613
+    second: Hero Damage Final Sprite Sheet_98
+  - first:
+      213: 3222849558141723562
+    second: Hero Damage Final Sprite Sheet_99
+  - first:
+      213: 8786089844657440808
+    second: Hero Damage Final Sprite Sheet_100
+  - first:
+      213: -3656506161021253060
+    second: Hero Damage Final Sprite Sheet_101
+  - first:
+      213: 3008443271842182380
+    second: Hero Damage Final Sprite Sheet_102
+  - first:
+      213: 5518163578997246562
+    second: Hero Damage Final Sprite Sheet_103
+  - first:
+      213: -256191069814936793
+    second: Hero Damage Final Sprite Sheet_104
+  - first:
+      213: -2229854433167506680
+    second: Hero Damage Final Sprite Sheet_105
+  - first:
+      213: 7349067267509211406
+    second: Hero Damage Final Sprite Sheet_106
+  - first:
+      213: -4493700168340064581
+    second: Hero Damage Final Sprite Sheet_107
+  - first:
+      213: -2385226134220088620
+    second: Hero Damage Final Sprite Sheet_108
+  - first:
+      213: -5977918837174312261
+    second: Hero Damage Final Sprite Sheet_109
+  - first:
+      213: -7658239112435723147
+    second: Hero Damage Final Sprite Sheet_110
+  - first:
+      213: 3517584734569519431
+    second: Hero Damage Final Sprite Sheet_111
+  - first:
+      213: 116830473985417182
+    second: Hero Damage Final Sprite Sheet_112
+  - first:
+      213: -7454300086372012348
+    second: Hero Damage Final Sprite Sheet_113
+  - first:
+      213: 714994097906145052
+    second: Hero Damage Final Sprite Sheet_114
+  - first:
+      213: -5279080775860612032
+    second: Hero Damage Final Sprite Sheet_115
+  - first:
+      213: -4053085742732780878
+    second: Hero Damage Final Sprite Sheet_116
+  - first:
+      213: 1785596837210854336
+    second: Hero Damage Final Sprite Sheet_117
+  - first:
+      213: -3756235127280651667
+    second: Hero Damage Final Sprite Sheet_118
+  - first:
+      213: 7124167989101044219
+    second: Hero Damage Final Sprite Sheet_119
+  - first:
+      213: -1537932692045924646
+    second: Hero Damage Final Sprite Sheet_120
+  - first:
+      213: -3311783913297352594
+    second: Hero Damage Final Sprite Sheet_121
+  - first:
+      213: -5904587191244305564
+    second: Hero Damage Final Sprite Sheet_122
+  - first:
+      213: 3348622988019583208
+    second: Hero Damage Final Sprite Sheet_123
+  - first:
+      213: -1100761827925293277
+    second: Hero Damage Final Sprite Sheet_124
+  - first:
+      213: -1486334423691819820
+    second: Hero Damage Final Sprite Sheet_125
+  - first:
+      213: -5561093063407197854
+    second: Hero Damage Final Sprite Sheet_126
+  - first:
+      213: -5927953048177568298
+    second: Hero Damage Final Sprite Sheet_127
+  - first:
+      213: -6664037872874155437
+    second: Hero Damage Final Sprite Sheet_128
+  - first:
+      213: 4935249618315225552
+    second: Hero Damage Final Sprite Sheet_129
+  - first:
+      213: 5962094755942138342
+    second: Hero Damage Final Sprite Sheet_130
+  - first:
+      213: 998739078654872905
+    second: Hero Damage Final Sprite Sheet_131
+  - first:
+      213: -1331232556694410382
+    second: Hero Damage Final Sprite Sheet_132
+  - first:
+      213: -2404266787123139160
+    second: Hero Damage Final Sprite Sheet_133
+  - first:
+      213: 6780314806680631204
+    second: Hero Damage Final Sprite Sheet_134
+  - first:
+      213: 2645567226231388510
+    second: Hero Damage Final Sprite Sheet_135
+  - first:
+      213: -3139563066365784567
+    second: Hero Damage Final Sprite Sheet_136
+  - first:
+      213: -2710486945507798508
+    second: Hero Damage Final Sprite Sheet_137
+  - first:
+      213: -5168240130182179963
+    second: Hero Damage Final Sprite Sheet_138
+  - first:
+      213: -4407102839072297294
+    second: Hero Damage Final Sprite Sheet_139
+  - first:
+      213: -4733775787046066119
+    second: Hero Damage Final Sprite Sheet_140
+  - first:
+      213: -1215610172749613952
+    second: Hero Damage Final Sprite Sheet_141
+  - first:
+      213: -6568696615927179730
+    second: Hero Damage Final Sprite Sheet_142
+  - first:
+      213: -433010046888708283
+    second: Hero Damage Final Sprite Sheet_143
+  - first:
+      213: 3816664413897411355
+    second: Hero Damage Final Sprite Sheet_144
+  - first:
+      213: -1127803195837328550
+    second: Hero Damage Final Sprite Sheet_145
+  - first:
+      213: -7452107741977469716
+    second: Hero Damage Final Sprite Sheet_146
+  - first:
+      213: 4168641361145271886
+    second: Hero Damage Final Sprite Sheet_147
+  - first:
+      213: -413057279723764922
+    second: Hero Damage Final Sprite Sheet_148
+  - first:
+      213: 8554158374283953065
+    second: Hero Damage Final Sprite Sheet_149
+  - first:
+      213: -6742016498340166390
+    second: Hero Damage Final Sprite Sheet_150
+  - first:
+      213: 3231021837877891650
+    second: Hero Damage Final Sprite Sheet_151
+  - first:
+      213: 1702028215928498906
+    second: Hero Damage Final Sprite Sheet_152
+  - first:
+      213: 1639179428321073174
+    second: Hero Damage Final Sprite Sheet_153
+  - first:
+      213: 2344172670580722702
+    second: Hero Damage Final Sprite Sheet_154
+  - first:
+      213: -7763498134301842173
+    second: Hero Damage Final Sprite Sheet_155
+  - first:
+      213: -3350065789851773132
+    second: Hero Damage Final Sprite Sheet_156
+  - first:
+      213: 1359084156270956584
+    second: Hero Damage Final Sprite Sheet_157
+  - first:
+      213: -1984540054356171300
+    second: Hero Damage Final Sprite Sheet_158
+  - first:
+      213: -509010696999144232
+    second: Hero Damage Final Sprite Sheet_159
+  - first:
+      213: 5790779310584607014
+    second: Hero Damage Final Sprite Sheet_160
+  - first:
+      213: 3097874837631001419
+    second: Hero Damage Final Sprite Sheet_161
+  - first:
+      213: 8859903870022612007
+    second: Hero Damage Final Sprite Sheet_162
+  - first:
+      213: 2966619928638957170
+    second: Hero Damage Final Sprite Sheet_163
+  - first:
+      213: 5040654035474012207
+    second: Hero Damage Final Sprite Sheet_164
+  - first:
+      213: 7373499435621541367
+    second: Hero Damage Final Sprite Sheet_165
+  - first:
+      213: -1044129922236777300
+    second: Hero Damage Final Sprite Sheet_166
+  - first:
+      213: 5662384669006612827
+    second: Hero Damage Final Sprite Sheet_167
+  - first:
+      213: 8103922364926540141
+    second: Hero Damage Final Sprite Sheet_168
+  - first:
+      213: -3410558911306034569
+    second: Hero Damage Final Sprite Sheet_169
+  - first:
+      213: 7918353241079059641
+    second: Hero Damage Final Sprite Sheet_170
+  - first:
+      213: 5396794859141490860
+    second: Hero Damage Final Sprite Sheet_171
+  - first:
+      213: -6708300738441551439
+    second: Hero Damage Final Sprite Sheet_172
+  - first:
+      213: -6748984696389185686
+    second: Hero Damage Final Sprite Sheet_173
+  - first:
+      213: 2700550260697609294
+    second: Hero Damage Final Sprite Sheet_174
+  - first:
+      213: 2532053763160584405
+    second: Hero Damage Final Sprite Sheet_175
+  - first:
+      213: 6512656031179346851
+    second: Hero Damage Final Sprite Sheet_176
+  - first:
+      213: 8297152804813955337
+    second: Hero Damage Final Sprite Sheet_177
+  - first:
+      213: 5506482809803595176
+    second: Hero Damage Final Sprite Sheet_178
+  - first:
+      213: 1372678549974643483
+    second: Hero Damage Final Sprite Sheet_179
+  - first:
+      213: 3503980981683317580
+    second: Hero Damage Final Sprite Sheet_180
+  - first:
+      213: 2629333562265661752
+    second: Hero Damage Final Sprite Sheet_181
+  - first:
+      213: -211880034289661017
+    second: Hero Damage Final Sprite Sheet_182
+  - first:
+      213: 3222918413811498914
+    second: Hero Damage Final Sprite Sheet_183
+  - first:
+      213: 736931292983140394
+    second: Hero Damage Final Sprite Sheet_184
+  - first:
+      213: 2577726232164992313
+    second: Hero Damage Final Sprite Sheet_185
+  - first:
+      213: -7341581303242171928
+    second: Hero Damage Final Sprite Sheet_186
+  - first:
+      213: 8289408675617502103
+    second: Hero Damage Final Sprite Sheet_187
+  - first:
+      213: 6505886870285630169
+    second: Hero Damage Final Sprite Sheet_188
+  - first:
+      213: 5914944080654120818
+    second: Hero Damage Final Sprite Sheet_189
+  - first:
+      213: -4447222215770915913
+    second: Hero Damage Final Sprite Sheet_190
+  - first:
+      213: 3440647518680481341
+    second: Hero Damage Final Sprite Sheet_191
+  - first:
+      213: 3187893821357006691
+    second: Hero Damage Final Sprite Sheet_192
+  - first:
+      213: 3775516619650273058
+    second: Hero Damage Final Sprite Sheet_193
+  - first:
+      213: -7600160929124127294
+    second: Hero Damage Final Sprite Sheet_194
+  - first:
+      213: -6946340292595914770
+    second: Hero Damage Final Sprite Sheet_195
+  - first:
+      213: -2995586170538246912
+    second: Hero Damage Final Sprite Sheet_196
+  - first:
+      213: 9075277132894518692
+    second: Hero Damage Final Sprite Sheet_197
+  - first:
+      213: -1986468194004908733
+    second: Hero Damage Final Sprite Sheet_198
+  - first:
+      213: 5091030200167964018
+    second: Hero Damage Final Sprite Sheet_199
+  - first:
+      213: 2572306854042783472
+    second: Hero Damage Final Sprite Sheet_200
+  - first:
+      213: 7112261401195659833
+    second: Hero Damage Final Sprite Sheet_201
+  - first:
+      213: -1010851622784824104
+    second: Hero Damage Final Sprite Sheet_202
+  - first:
+      213: 2389367407667019405
+    second: Hero Damage Final Sprite Sheet_203
+  - first:
+      213: -88583216812968244
+    second: Hero Damage Final Sprite Sheet_204
+  - first:
+      213: -2042455316449962050
+    second: Hero Damage Final Sprite Sheet_205
+  - first:
+      213: 6918737589197425102
+    second: Hero Damage Final Sprite Sheet_206
+  - first:
+      213: -6828951106195931721
+    second: Hero Damage Final Sprite Sheet_207
+  - first:
+      213: 8381698342757591897
+    second: Hero Damage Final Sprite Sheet_208
+  - first:
+      213: -6978913059008110263
+    second: Hero Damage Final Sprite Sheet_209
+  - first:
+      213: -3031248252299391929
+    second: Hero Damage Final Sprite Sheet_210
+  - first:
+      213: -4464333146832644669
+    second: Hero Damage Final Sprite Sheet_211
+  - first:
+      213: -4193638629101308253
+    second: Hero Damage Final Sprite Sheet_212
+  - first:
+      213: 3189776198006994016
+    second: Hero Damage Final Sprite Sheet_213
+  - first:
+      213: 8265705726027115267
+    second: Hero Damage Final Sprite Sheet_214
+  - first:
+      213: 222607703333853080
+    second: Hero Damage Final Sprite Sheet_215
+  - first:
+      213: -5862438445241323121
+    second: Hero Damage Final Sprite Sheet_216
+  - first:
+      213: 5127342278796826408
+    second: Hero Damage Final Sprite Sheet_217
+  - first:
+      213: -7951008822063138635
+    second: Hero Damage Final Sprite Sheet_218
+  - first:
+      213: -8312806455330692522
+    second: Hero Damage Final Sprite Sheet_219
+  - first:
+      213: 785308136659215714
+    second: Hero Damage Final Sprite Sheet_220
+  - first:
+      213: 8956251824756303358
+    second: Hero Damage Final Sprite Sheet_221
+  - first:
+      213: 7375972045355840141
+    second: Hero Damage Final Sprite Sheet_222
+  - first:
+      213: 4603959788887216307
+    second: Hero Damage Final Sprite Sheet_223
+  - first:
+      213: 4764413593818450988
+    second: Hero Damage Final Sprite Sheet_224
+  - first:
+      213: -1193545058894417700
+    second: Hero Damage Final Sprite Sheet_225
+  - first:
+      213: -3631924246686685570
+    second: Hero Damage Final Sprite Sheet_226
+  - first:
+      213: 2859867004047837605
+    second: Hero Damage Final Sprite Sheet_227
+  - first:
+      213: 1677532310936429284
+    second: Hero Damage Final Sprite Sheet_228
+  - first:
+      213: -39439513382258034
+    second: Hero Damage Final Sprite Sheet_229
+  - first:
+      213: -5048416304245877500
+    second: Hero Damage Final Sprite Sheet_230
+  - first:
+      213: -2437751288721676789
+    second: Hero Damage Final Sprite Sheet_231
+  - first:
+      213: -1792389863548126571
+    second: Hero Damage Final Sprite Sheet_232
+  - first:
+      213: 3835717580090443475
+    second: Hero Damage Final Sprite Sheet_233
+  - first:
+      213: 1024034346508127990
+    second: Hero Damage Final Sprite Sheet_234
+  - first:
+      213: -1310986749653592052
+    second: Hero Damage Final Sprite Sheet_235
+  - first:
+      213: -1963669106204903406
+    second: Hero Damage Final Sprite Sheet_236
+  - first:
+      213: 7787277116894275
+    second: Hero Damage Final Sprite Sheet_237
+  - first:
+      213: 2402707764695887799
+    second: Hero Damage Final Sprite Sheet_238
+  - first:
+      213: 4338250148116656049
+    second: Hero Damage Final Sprite Sheet_239
+  - first:
+      213: 9093913552090200464
+    second: Hero Damage Final Sprite Sheet_240
+  - first:
+      213: -5811588936764701145
+    second: Hero Damage Final Sprite Sheet_241
+  - first:
+      213: 1737689564412099833
+    second: Hero Damage Final Sprite Sheet_242
+  - first:
+      213: -1700594105178621024
+    second: Hero Damage Final Sprite Sheet_243
+  - first:
+      213: 3710040249000142746
+    second: Hero Damage Final Sprite Sheet_244
+  - first:
+      213: -7439707467604360537
+    second: Hero Damage Final Sprite Sheet_245
+  - first:
+      213: -6516931793918885367
+    second: Hero Damage Final Sprite Sheet_246
+  - first:
+      213: -6954950602018687652
+    second: Hero Damage Final Sprite Sheet_247
+  - first:
+      213: -4080275379112732832
+    second: Hero Damage Final Sprite Sheet_248
+  - first:
+      213: -2291536874018713047
+    second: Hero Damage Final Sprite Sheet_249
+  - first:
+      213: -161990606033935147
+    second: Hero Damage Final Sprite Sheet_250
+  - first:
+      213: 7443962475786538171
+    second: Hero Damage Final Sprite Sheet_251
+  - first:
+      213: -6707741777237575041
+    second: Hero Damage Final Sprite Sheet_252
+  - first:
+      213: -7264940861040801608
+    second: Hero Damage Final Sprite Sheet_253
+  - first:
+      213: 3406507900530307295
+    second: Hero Damage Final Sprite Sheet_254
+  - first:
+      213: -6237903219567764499
+    second: Hero Damage Final Sprite Sheet_255
+  - first:
+      213: 5740775092780832198
+    second: Hero Damage Final Sprite Sheet_256
+  - first:
+      213: -3969683391804087470
+    second: Hero Damage Final Sprite Sheet_257
+  - first:
+      213: -4503792623363176150
+    second: Hero Damage Final Sprite Sheet_258
+  - first:
+      213: -2331715502629003993
+    second: Hero Damage Final Sprite Sheet_259
+  - first:
+      213: 2220818479572071494
+    second: Hero Damage Final Sprite Sheet_260
+  - first:
+      213: -3334710860871989671
+    second: Hero Damage Final Sprite Sheet_261
+  - first:
+      213: -8361913238380004773
+    second: Hero Damage Final Sprite Sheet_262
+  - first:
+      213: 2129880565454672960
+    second: Hero Damage Final Sprite Sheet_263
+  - first:
+      213: -5697876297663557870
+    second: Hero Damage Final Sprite Sheet_264
+  - first:
+      213: 2111885171242023764
+    second: Hero Damage Final Sprite Sheet_265
+  - first:
+      213: 8904295625269176213
+    second: Hero Damage Final Sprite Sheet_266
+  - first:
+      213: 3589130980445584853
+    second: Hero Damage Final Sprite Sheet_267
+  - first:
+      213: 1089885636377626074
+    second: Hero Damage Final Sprite Sheet_268
+  - first:
+      213: 7645266401279019608
+    second: Hero Damage Final Sprite Sheet_269
+  - first:
+      213: 395108820501536036
+    second: Hero Damage Final Sprite Sheet_270
+  - first:
+      213: 39051230661661606
+    second: Hero Damage Final Sprite Sheet_271
+  - first:
+      213: 324008082697532109
+    second: Hero Damage Final Sprite Sheet_272
+  - first:
+      213: 7562554254991689704
+    second: Hero Damage Final Sprite Sheet_273
+  - first:
+      213: 4522665446670819196
+    second: Hero Damage Final Sprite Sheet_274
+  - first:
+      213: -2077783388811509833
+    second: Hero Damage Final Sprite Sheet_275
+  - first:
+      213: -1897189427558913854
+    second: Hero Damage Final Sprite Sheet_276
+  - first:
+      213: -6902746222981113038
+    second: Hero Damage Final Sprite Sheet_277
+  - first:
+      213: -773508556705013611
+    second: Hero Damage Final Sprite Sheet_278
+  - first:
+      213: -226811998718510912
+    second: Hero Damage Final Sprite Sheet_279
+  - first:
+      213: 4055163691957460368
+    second: Hero Damage Final Sprite Sheet_280
+  - first:
+      213: -6505150746029741094
+    second: Hero Damage Final Sprite Sheet_281
+  - first:
+      213: -7704435971004054041
+    second: Hero Damage Final Sprite Sheet_282
+  - first:
+      213: 3501689839099809428
+    second: Hero Damage Final Sprite Sheet_283
+  - first:
+      213: -1127930106405860723
+    second: Hero Damage Final Sprite Sheet_284
+  - first:
+      213: -7021710910136983930
+    second: Hero Damage Final Sprite Sheet_285
+  - first:
+      213: -823808087031019260
+    second: Hero Damage Final Sprite Sheet_286
+  - first:
+      213: -6791498281903839507
+    second: Hero Damage Final Sprite Sheet_287
+  - first:
+      213: 469262196994535447
+    second: Hero Damage Final Sprite Sheet_288
+  - first:
+      213: -5511192852063587433
+    second: Hero Damage Final Sprite Sheet_289
+  - first:
+      213: -5620908295638224829
+    second: Hero Damage Final Sprite Sheet_290
+  - first:
+      213: 6793579338716298135
+    second: Hero Damage Final Sprite Sheet_291
+  - first:
+      213: -3239437626797529347
+    second: Hero Damage Final Sprite Sheet_292
+  - first:
+      213: -4522357032508593946
+    second: Hero Damage Final Sprite Sheet_293
+  - first:
+      213: -7615165152164354940
+    second: Hero Damage Final Sprite Sheet_294
+  - first:
+      213: -701230821756565680
+    second: Hero Damage Final Sprite Sheet_295
+  - first:
+      213: -9051853556551001592
+    second: Hero Damage Final Sprite Sheet_296
+  - first:
+      213: -6830781936812234235
+    second: Hero Damage Final Sprite Sheet_297
+  - first:
+      213: -5427391815632622795
+    second: Hero Damage Final Sprite Sheet_298
+  - first:
+      213: -6149946316961788881
+    second: Hero Damage Final Sprite Sheet_299
+  - first:
+      213: -3065181340492952907
+    second: Hero Damage Final Sprite Sheet_300
+  - first:
+      213: 7482357434016932181
+    second: Hero Damage Final Sprite Sheet_301
+  - first:
+      213: 8076216310965836308
+    second: Hero Damage Final Sprite Sheet_302
+  - first:
+      213: -7959998597892527693
+    second: Hero Damage Final Sprite Sheet_303
+  - first:
+      213: 8481992434933541572
+    second: Hero Damage Final Sprite Sheet_304
+  - first:
+      213: -4451902519052800461
+    second: Hero Damage Final Sprite Sheet_305
+  - first:
+      213: -250554267097218538
+    second: Hero Damage Final Sprite Sheet_306
+  - first:
+      213: 2609341730201798761
+    second: Hero Damage Final Sprite Sheet_307
+  - first:
+      213: 8017927408785881175
+    second: Hero Damage Final Sprite Sheet_308
+  - first:
+      213: 8777516330767835369
+    second: Hero Damage Final Sprite Sheet_309
+  - first:
+      213: -2125417902067342447
+    second: Hero Damage Final Sprite Sheet_310
+  - first:
+      213: 1578214513128750400
+    second: Hero Damage Final Sprite Sheet_311
+  - first:
+      213: 478484296429919224
+    second: Hero Damage Final Sprite Sheet_312
+  - first:
+      213: -4188283922973852912
+    second: Hero Damage Final Sprite Sheet_313
+  - first:
+      213: -3123716084043581572
+    second: Hero Damage Final Sprite Sheet_314
+  - first:
+      213: 6092497547930577499
+    second: Hero Damage Final Sprite Sheet_315
+  - first:
+      213: 8996021864796648508
+    second: Hero Damage Final Sprite Sheet_316
+  - first:
+      213: 2315434248836494510
+    second: Hero Damage Final Sprite Sheet_317
+  - first:
+      213: 2006583230350197752
+    second: Hero Damage Final Sprite Sheet_318
+  - first:
+      213: -7059291616446504603
+    second: Hero Damage Final Sprite Sheet_319
+  - first:
+      213: -5690580192473343202
+    second: Hero Damage Final Sprite Sheet_320
+  - first:
+      213: -8880703987930631764
+    second: Hero Damage Final Sprite Sheet_321
+  - first:
+      213: -6419332563752108179
+    second: Hero Damage Final Sprite Sheet_322
+  - first:
+      213: 2571885366731803110
+    second: Hero Damage Final Sprite Sheet_323
+  - first:
+      213: 8840883423193370730
+    second: Hero Damage Final Sprite Sheet_324
+  - first:
+      213: -735225535694356410
+    second: Hero Damage Final Sprite Sheet_325
+  - first:
+      213: -4984711648774233589
+    second: Hero Damage Final Sprite Sheet_326
+  - first:
+      213: -463445174844992517
+    second: Hero Damage Final Sprite Sheet_327
+  - first:
+      213: -5488149373628261282
+    second: Hero Damage Final Sprite Sheet_328
+  - first:
+      213: 3581840838731609477
+    second: Hero Damage Final Sprite Sheet_329
+  - first:
+      213: -2416176562511784040
+    second: Hero Damage Final Sprite Sheet_330
+  - first:
+      213: -7221016668326757883
+    second: Hero Damage Final Sprite Sheet_331
+  - first:
+      213: -6438523892195419280
+    second: Hero Damage Final Sprite Sheet_332
+  - first:
+      213: 5649749714002009108
+    second: Hero Damage Final Sprite Sheet_333
+  - first:
+      213: 1576236862815418041
+    second: Hero Damage Final Sprite Sheet_334
+  - first:
+      213: -1221724683698950267
+    second: Hero Damage Final Sprite Sheet_335
+  - first:
+      213: -6875809662945390127
+    second: Hero Damage Final Sprite Sheet_336
+  - first:
+      213: 4738154916981665842
+    second: Hero Damage Final Sprite Sheet_337
+  - first:
+      213: 6478042814709205840
+    second: Hero Damage Final Sprite Sheet_338
+  - first:
+      213: -1239899220400772112
+    second: Hero Damage Final Sprite Sheet_339
+  - first:
+      213: 3021456606680934833
+    second: Hero Damage Final Sprite Sheet_340
+  - first:
+      213: -3220097213623083081
+    second: Hero Damage Final Sprite Sheet_341
+  - first:
+      213: -9012936777115180417
+    second: Hero Damage Final Sprite Sheet_342
+  - first:
+      213: -6158116194802325066
+    second: Hero Damage Final Sprite Sheet_343
+  - first:
+      213: 4868207862600822282
+    second: Hero Damage Final Sprite Sheet_344
+  - first:
+      213: 8424214339122346173
+    second: Hero Damage Final Sprite Sheet_345
+  - first:
+      213: -4189928533063332263
+    second: Hero Damage Final Sprite Sheet_346
+  - first:
+      213: -6370548883317607363
+    second: Hero Damage Final Sprite Sheet_347
+  - first:
+      213: 5016794783580007775
+    second: Hero Damage Final Sprite Sheet_348
+  - first:
+      213: 8804396125368561197
+    second: Hero Damage Final Sprite Sheet_349
+  - first:
+      213: 6365443268178280590
+    second: Hero Damage Final Sprite Sheet_350
+  - first:
+      213: -3065231553910372301
+    second: Hero Damage Final Sprite Sheet_351
+  - first:
+      213: -8975695105998369508
+    second: Hero Damage Final Sprite Sheet_352
+  - first:
+      213: 1290231371302446717
+    second: Hero Damage Final Sprite Sheet_353
+  - first:
+      213: 1819651276040171957
+    second: Hero Damage Final Sprite Sheet_354
+  - first:
+      213: 441535596135211219
+    second: Hero Damage Final Sprite Sheet_355
+  - first:
+      213: -305960567063831823
+    second: Hero Damage Final Sprite Sheet_356
+  - first:
+      213: 5925877207653731588
+    second: Hero Damage Final Sprite Sheet_357
+  - first:
+      213: -7745851198545428406
+    second: Hero Damage Final Sprite Sheet_358
+  - first:
+      213: -6084498772065072638
+    second: Hero Damage Final Sprite Sheet_359
+  - first:
+      213: 8126062704221591349
+    second: Hero Damage Final Sprite Sheet_360
+  - first:
+      213: -8982997692660923361
+    second: Hero Damage Final Sprite Sheet_361
+  - first:
+      213: -7500679533745440251
+    second: Hero Damage Final Sprite Sheet_362
+  - first:
+      213: 5860028415132683369
+    second: Hero Damage Final Sprite Sheet_363
+  - first:
+      213: 9145530647461385642
+    second: Hero Damage Final Sprite Sheet_364
+  - first:
+      213: -1697320457785779931
+    second: Hero Damage Final Sprite Sheet_365
+  - first:
+      213: -563629988598290018
+    second: Hero Damage Final Sprite Sheet_366
+  - first:
+      213: -3596116750690719113
+    second: Hero Damage Final Sprite Sheet_367
+  - first:
+      213: 6326967357041477245
+    second: Hero Damage Final Sprite Sheet_368
+  - first:
+      213: 8499735059843861874
+    second: Hero Damage Final Sprite Sheet_369
+  - first:
+      213: 4215582498377777282
+    second: Hero Damage Final Sprite Sheet_370
+  - first:
+      213: -1799088419588001641
+    second: Hero Damage Final Sprite Sheet_371
+  - first:
+      213: 3613743797879438164
+    second: Hero Damage Final Sprite Sheet_372
+  - first:
+      213: -4103621763970331287
+    second: Hero Damage Final Sprite Sheet_373
+  - first:
+      213: 5893131225804053092
+    second: Hero Damage Final Sprite Sheet_374
+  - first:
+      213: 8681379885303492452
+    second: Hero Damage Final Sprite Sheet_375
+  - first:
+      213: -5933212116294454061
+    second: Hero Damage Final Sprite Sheet_376
+  - first:
+      213: -8482024969281028151
+    second: Hero Damage Final Sprite Sheet_377
+  - first:
+      213: 8504506749560298142
+    second: Hero Damage Final Sprite Sheet_378
+  - first:
+      213: 6868330963963591329
+    second: Hero Damage Final Sprite Sheet_379
+  - first:
+      213: 7100304305067202299
+    second: Hero Damage Final Sprite Sheet_380
+  - first:
+      213: 7919583795941872326
+    second: Hero Damage Final Sprite Sheet_381
+  - first:
+      213: 8801259585485482497
+    second: Hero Damage Final Sprite Sheet_382
+  - first:
+      213: 5415768456466725574
+    second: Hero Damage Final Sprite Sheet_383
+  - first:
+      213: -4222865126577102265
+    second: Hero Damage Final Sprite Sheet_384
+  - first:
+      213: -3966470557969909145
+    second: Hero Damage Final Sprite Sheet_385
+  - first:
+      213: -9036658839796205042
+    second: Hero Damage Final Sprite Sheet_386
+  - first:
+      213: -2283288644118585715
+    second: Hero Damage Final Sprite Sheet_387
+  - first:
+      213: -3149907681618916731
+    second: Hero Damage Final Sprite Sheet_388
+  - first:
+      213: 2001125300571944777
+    second: Hero Damage Final Sprite Sheet_389
+  - first:
+      213: 6637738694249606342
+    second: Hero Damage Final Sprite Sheet_390
+  - first:
+      213: 7807405910594875815
+    second: Hero Damage Final Sprite Sheet_391
+  - first:
+      213: -6197613618249499469
+    second: Hero Damage Final Sprite Sheet_392
+  - first:
+      213: 2740759998325672917
+    second: Hero Damage Final Sprite Sheet_393
+  - first:
+      213: 347349304817747860
+    second: Hero Damage Final Sprite Sheet_394
+  - first:
+      213: -6218956466431787225
+    second: Hero Damage Final Sprite Sheet_395
+  - first:
+      213: 3871384574514208256
+    second: Hero Damage Final Sprite Sheet_396
+  - first:
+      213: 1278826435682476987
+    second: Hero Damage Final Sprite Sheet_397
+  - first:
+      213: 5744870042081585134
+    second: Hero Damage Final Sprite Sheet_398
+  - first:
+      213: 4578009578629650382
+    second: Hero Damage Final Sprite Sheet_399
+  - first:
+      213: -6421835917240425707
+    second: Hero Damage Final Sprite Sheet_400
+  - first:
+      213: 7787836169530222018
+    second: Hero Damage Final Sprite Sheet_401
+  - first:
+      213: -2289327053092600014
+    second: Hero Damage Final Sprite Sheet_402
+  - first:
+      213: -7329507154760135366
+    second: Hero Damage Final Sprite Sheet_403
+  - first:
+      213: 7749012588746585700
+    second: Hero Damage Final Sprite Sheet_404
+  - first:
+      213: 5901293848629821678
+    second: Hero Damage Final Sprite Sheet_405
+  - first:
+      213: 8489966865225415521
+    second: Hero Damage Final Sprite Sheet_406
+  - first:
+      213: -5421186577208188072
+    second: Hero Damage Final Sprite Sheet_407
+  - first:
+      213: -6345822295022565155
+    second: Hero Damage Final Sprite Sheet_408
+  - first:
+      213: -5926149874185202031
+    second: Hero Damage Final Sprite Sheet_409
+  - first:
+      213: -7722165141050029017
+    second: Hero Damage Final Sprite Sheet_410
+  - first:
+      213: 7727515885297152201
+    second: Hero Damage Final Sprite Sheet_411
+  - first:
+      213: 4481691697352310889
+    second: Hero Damage Final Sprite Sheet_412
+  - first:
+      213: -1832987073414795688
+    second: Hero Damage Final Sprite Sheet_413
+  - first:
+      213: -7750236077281350390
+    second: Hero Damage Final Sprite Sheet_414
+  - first:
+      213: 7369611136264387311
+    second: Hero Damage Final Sprite Sheet_415
+  - first:
+      213: -7354823063701770353
+    second: Hero Damage Final Sprite Sheet_416
+  - first:
+      213: -8578367521910197291
+    second: Hero Damage Final Sprite Sheet_417
+  - first:
+      213: 7104093924177679406
+    second: Hero Damage Final Sprite Sheet_418
+  - first:
+      213: -4007963431603052562
+    second: Hero Damage Final Sprite Sheet_419
+  - first:
+      213: -8986929636558567032
+    second: Hero Damage Final Sprite Sheet_420
+  - first:
+      213: -5432574161676396413
+    second: Hero Damage Final Sprite Sheet_421
+  - first:
+      213: 9147604671976696282
+    second: Hero Damage Final Sprite Sheet_422
+  - first:
+      213: 9038117316707702116
+    second: Hero Damage Final Sprite Sheet_423
+  - first:
+      213: 1442641100226963878
+    second: Hero Damage Final Sprite Sheet_424
+  - first:
+      213: 2325241739575771124
+    second: Hero Damage Final Sprite Sheet_425
+  - first:
+      213: 3136858710147017199
+    second: Hero Damage Final Sprite Sheet_426
+  - first:
+      213: -5643947497838026956
+    second: Hero Damage Final Sprite Sheet_427
+  - first:
+      213: -1396265284157170864
+    second: Hero Damage Final Sprite Sheet_428
+  - first:
+      213: 318257954440877700
+    second: Hero Damage Final Sprite Sheet_429
+  - first:
+      213: -4097345548317622405
+    second: Hero Damage Final Sprite Sheet_430
+  - first:
+      213: -1805642023036852150
+    second: Hero Damage Final Sprite Sheet_431
+  - first:
+      213: 2886323799586580621
+    second: Hero Damage Final Sprite Sheet_432
+  - first:
+      213: -6458989700138867951
+    second: Hero Damage Final Sprite Sheet_433
+  - first:
+      213: -3050896597843488443
+    second: Hero Damage Final Sprite Sheet_434
+  - first:
+      213: -8198516723254560388
+    second: Hero Damage Final Sprite Sheet_435
+  - first:
+      213: 1697753140260892589
+    second: Hero Damage Final Sprite Sheet_436
+  - first:
+      213: -6311960474455972701
+    second: Hero Damage Final Sprite Sheet_437
+  - first:
+      213: -21653001579545180
+    second: Hero Damage Final Sprite Sheet_438
+  - first:
+      213: 7111806893093419580
+    second: Hero Damage Final Sprite Sheet_439
+  - first:
+      213: 1120406509367711248
+    second: Hero Damage Final Sprite Sheet_440
+  - first:
+      213: 4270487574997971428
+    second: Hero Damage Final Sprite Sheet_441
+  - first:
+      213: 3394684195898411257
+    second: Hero Damage Final Sprite Sheet_442
+  - first:
+      213: -1472114359575669678
+    second: Hero Damage Final Sprite Sheet_443
+  - first:
+      213: -8307892494912695955
+    second: Hero Damage Final Sprite Sheet_444
+  - first:
+      213: 2054581292029688369
+    second: Hero Damage Final Sprite Sheet_445
+  - first:
+      213: 6048414335966064415
+    second: Hero Damage Final Sprite Sheet_446
+  - first:
+      213: -7576870683457762937
+    second: Hero Damage Final Sprite Sheet_447
+  - first:
+      213: -7225013929189610985
+    second: Hero Damage Final Sprite Sheet_448
+  - first:
+      213: 8395040278749514420
+    second: Hero Damage Final Sprite Sheet_449
+  - first:
+      213: 6709212078520066262
+    second: Hero Damage Final Sprite Sheet_450
+  - first:
+      213: -2862469669095147948
+    second: Hero Damage Final Sprite Sheet_451
+  - first:
+      213: 6257219117046928783
+    second: Hero Damage Final Sprite Sheet_452
+  - first:
+      213: -3974750036880946924
+    second: Hero Damage Final Sprite Sheet_453
+  - first:
+      213: -2067484650647108286
+    second: Hero Damage Final Sprite Sheet_454
+  - first:
+      213: 4443060362965406364
+    second: Hero Damage Final Sprite Sheet_455
+  - first:
+      213: 1736442023436141182
+    second: Hero Damage Final Sprite Sheet_456
+  - first:
+      213: 5869798012794545812
+    second: Hero Damage Final Sprite Sheet_457
+  - first:
+      213: 4548454506641065247
+    second: Hero Damage Final Sprite Sheet_458
+  - first:
+      213: -719251474731784397
+    second: Hero Damage Final Sprite Sheet_459
+  - first:
+      213: 1834321258914413356
+    second: Hero Damage Final Sprite Sheet_460
+  - first:
+      213: 5362449313773499306
+    second: Hero Damage Final Sprite Sheet_461
+  - first:
+      213: -4601029041160729990
+    second: Hero Damage Final Sprite Sheet_462
+  - first:
+      213: -3219512829416572484
+    second: Hero Damage Final Sprite Sheet_463
+  - first:
+      213: -9176832330995082799
+    second: Hero Damage Final Sprite Sheet_464
+  - first:
+      213: 8115697734150004412
+    second: Hero Damage Final Sprite Sheet_465
+  - first:
+      213: -7510229825768836868
+    second: Hero Damage Final Sprite Sheet_466
+  - first:
+      213: -2528756512909021505
+    second: Hero Damage Final Sprite Sheet_467
+  - first:
+      213: -5099667693870446549
+    second: Hero Damage Final Sprite Sheet_468
+  - first:
+      213: -3863184141165483669
+    second: Hero Damage Final Sprite Sheet_469
+  - first:
+      213: 7033765276936665652
+    second: Hero Damage Final Sprite Sheet_470
+  - first:
+      213: -371815814001496136
+    second: Hero Damage Final Sprite Sheet_471
+  - first:
+      213: -5479777398607424684
+    second: Hero Damage Final Sprite Sheet_472
+  - first:
+      213: 1589755152204645489
+    second: Hero Damage Final Sprite Sheet_473
+  - first:
+      213: -8367520176605165022
+    second: Hero Damage Final Sprite Sheet_474
+  - first:
+      213: 991847753317419841
+    second: Hero Damage Final Sprite Sheet_475
+  - first:
+      213: 4553347731365990208
+    second: Hero Damage Final Sprite Sheet_476
+  - first:
+      213: -998429733957121502
+    second: Hero Damage Final Sprite Sheet_477
+  - first:
+      213: -2932237629453978699
+    second: Hero Damage Final Sprite Sheet_478
+  - first:
+      213: 1690727878849491961
+    second: Hero Damage Final Sprite Sheet_479
+  - first:
+      213: -944459800903142205
+    second: Hero Damage Final Sprite Sheet_480
+  - first:
+      213: -8964534833867297295
+    second: Hero Damage Final Sprite Sheet_481
+  - first:
+      213: -2316083658978712403
+    second: Hero Damage Final Sprite Sheet_482
+  - first:
+      213: 1166984821084316475
+    second: Hero Damage Final Sprite Sheet_483
+  - first:
+      213: -3140088461489595087
+    second: Hero Damage Final Sprite Sheet_484
+  - first:
+      213: 3922334760730764077
+    second: Hero Damage Final Sprite Sheet_485
+  - first:
+      213: -4461852772767367644
+    second: Hero Damage Final Sprite Sheet_486
+  - first:
+      213: 4291573278610279194
+    second: Hero Damage Final Sprite Sheet_487
+  - first:
+      213: 1162068020361602866
+    second: Hero Damage Final Sprite Sheet_488
+  - first:
+      213: 3649357627526362726
+    second: Hero Damage Final Sprite Sheet_489
+  - first:
+      213: -3600755212457390351
+    second: Hero Damage Final Sprite Sheet_490
+  - first:
+      213: 3888920148461012503
+    second: Hero Damage Final Sprite Sheet_491
+  - first:
+      213: -5097395925760865258
+    second: Hero Damage Final Sprite Sheet_492
+  - first:
+      213: 612512611158715957
+    second: Hero Damage Final Sprite Sheet_493
+  - first:
+      213: -617508118700162827
+    second: Hero Damage Final Sprite Sheet_494
+  - first:
+      213: -2437850706928954695
+    second: Hero Damage Final Sprite Sheet_495
+  - first:
+      213: -3538870145133360130
+    second: Hero Damage Final Sprite Sheet_496
+  - first:
+      213: 7564157102827463536
+    second: Hero Damage Final Sprite Sheet_497
+  - first:
+      213: 1057088984622325538
+    second: Hero Damage Final Sprite Sheet_498
+  - first:
+      213: -3940305366565381464
+    second: Hero Damage Final Sprite Sheet_499
+  - first:
+      213: 1904528348342165290
+    second: Hero Damage Final Sprite Sheet_500
+  - first:
+      213: 6295979123134669144
+    second: Hero Damage Final Sprite Sheet_501
+  - first:
+      213: 1516085506035873826
+    second: Hero Damage Final Sprite Sheet_502
+  - first:
+      213: 7472962394578728460
+    second: Hero Damage Final Sprite Sheet_503
+  - first:
+      213: -2123081622307537510
+    second: Hero Damage Final Sprite Sheet_504
+  - first:
+      213: 4167315599355496170
+    second: Hero Damage Final Sprite Sheet_505
+  - first:
+      213: -3087004237308433856
+    second: Hero Damage Final Sprite Sheet_506
+  - first:
+      213: 8566299522615601228
+    second: Hero Damage Final Sprite Sheet_507
+  - first:
+      213: -5005851789236981468
+    second: Hero Damage Final Sprite Sheet_508
+  - first:
+      213: 6335242208645718399
+    second: Hero Damage Final Sprite Sheet_509
+  - first:
+      213: 77418768960867751
+    second: Hero Damage Final Sprite Sheet_510
+  - first:
+      213: -6523419471377144110
+    second: Hero Damage Final Sprite Sheet_511
+  - first:
+      213: -9026594949315992951
+    second: Hero Damage Final Sprite Sheet_512
+  - first:
+      213: 1488082297750664279
+    second: Hero Damage Final Sprite Sheet_513
+  - first:
+      213: -1435675371711343673
+    second: Hero Damage Final Sprite Sheet_514
+  - first:
+      213: 1099706514002073057
+    second: Hero Damage Final Sprite Sheet_515
+  - first:
+      213: -361473450818268057
+    second: Hero Damage Final Sprite Sheet_516
+  - first:
+      213: 4245109549133218253
+    second: Hero Damage Final Sprite Sheet_517
+  - first:
+      213: -7752319733290969403
+    second: Hero Damage Final Sprite Sheet_518
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +1598,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +1630,147 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Hero Damage Final Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 46
+        width: 381
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab950b1ce20cf1620800000000000000
+      internalID: 2747125604769880506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Damage Final Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 48
+        width: 579
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7c7910bf7b2650800000000000000
+      internalID: 6209196905578921080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Damage Final Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 36
+        width: 588
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb72ed7deac8e50800000000000000
+      internalID: 6813012578473065261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Damage Final Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 36
+        width: 588
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61cb80aa33e88fa0800000000000000
+      internalID: -5798134679298391701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Damage Final Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 41
+        width: 579
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47371098df75ac100800000000000000
+      internalID: 129012285770396532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Damage Final Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 46
+        width: 380
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61361e76590686830800000000000000
+      internalID: 4064604858511090454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

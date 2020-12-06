@@ -1,7 +1,61 @@
 fileFormatVersion: 2
 guid: a846241085524f24094a0dfbe37b1b76
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3172120162861931483
+    second: Hero Death Sprite Sheet_0
+  - first:
+      213: 3826932378374196658
+    second: Hero Death Sprite Sheet_1
+  - first:
+      213: -485685069309360742
+    second: Hero Death Sprite Sheet_2
+  - first:
+      213: 3088409643423345108
+    second: Hero Death Sprite Sheet_3
+  - first:
+      213: -4802447476137561371
+    second: Hero Death Sprite Sheet_4
+  - first:
+      213: -8977444944743806576
+    second: Hero Death Sprite Sheet_5
+  - first:
+      213: 3065572208444685688
+    second: Hero Death Sprite Sheet_6
+  - first:
+      213: 1332863514556719540
+    second: Hero Death Sprite Sheet_7
+  - first:
+      213: 1874050101402765487
+    second: Hero Death Sprite Sheet_8
+  - first:
+      213: -5657313387339269795
+    second: Hero Death Sprite Sheet_9
+  - first:
+      213: 6996952984586147226
+    second: Hero Death Sprite Sheet_10
+  - first:
+      213: -8721068793090066813
+    second: Hero Death Sprite Sheet_11
+  - first:
+      213: -4718049265877211230
+    second: Hero Death Sprite Sheet_12
+  - first:
+      213: 1473009859162235509
+    second: Hero Death Sprite Sheet_13
+  - first:
+      213: 6551324405504522152
+    second: Hero Death Sprite Sheet_14
+  - first:
+      213: -1713174762105001796
+    second: Hero Death Sprite Sheet_15
+  - first:
+      213: 6658238364697592560
+    second: Hero Death Sprite Sheet_16
+  - first:
+      213: 3643873713443490126
+    second: Hero Death Sprite Sheet_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +95,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -64,7 +118,19 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -75,7 +141,385 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1145
+        width: 580
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5d344b72a50c20800000000000000
+      internalID: 3172120162861931483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1150
+        width: 592
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4f60e8befb1530800000000000000
+      internalID: 3826932378374196658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 1156
+        width: 586
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ca13b0008249f0800000000000000
+      internalID: -485685069309360742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1150
+        width: 586
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a325253c3cda20800000000000000
+      internalID: 3088409643423345108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6231
+        y: 1156
+        width: 956
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2795407774a5db0800000000000000
+      internalID: -4802447476137561371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 7831
+        y: 1156
+        width: 773
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994be52365b96380800000000000000
+      internalID: -8977444944743806576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9372
+        y: 1162
+        width: 732
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db7a57ea91b8a20800000000000000
+      internalID: 3065572208444685688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 10849
+        y: 1162
+        width: 732
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16b3ffd484f7210800000000000000
+      internalID: 1332863514556719540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 149
+        width: 733
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8856953a6f10a10800000000000000
+      internalID: 1874050101402765487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 682
+        width: 129
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b49ca27f2d71b0800000000000000
+      internalID: -5657313387339269795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 711
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95dd540bab2a1160800000000000000
+      internalID: 6996952984586147226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 155
+        width: 891
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3863f1e832a88f680800000000000000
+      internalID: -8721068793090066813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 149
+        width: 890
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a892a03f168eb0800000000000000
+      internalID: -4718049265877211230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 149
+        width: 972
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572630e99ae217410800000000000000
+      internalID: 1473009859162235509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 149
+        width: 1053
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7b17e16dafaea50800000000000000
+      internalID: 6551324405504522152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7632
+        y: 149
+        width: 1236
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8219271a49938e0800000000000000
+      internalID: -1713174762105001796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9112
+        y: 132
+        width: 1192
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28dad0480d66c50800000000000000
+      internalID: 6658238364697592560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Death Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 10638
+        y: 138
+        width: 1195
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ce2816d3a19230800000000000000
+      internalID: 3643873713443490126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
